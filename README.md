@@ -1,4 +1,4 @@
-# CSP to SDP NIP Data Rates & Data Models (version 1.0)
+# CSP to SDP NIP Data Rates & Data Models (version 1.1)
 An ipython notebook and collection of python scripts. These make it easier to model SKA Science Data Processor (SDP)
 data rates. Diagrams are included that define the conceptual and logical structure of Non-Imaging Processing (NIP) 
 data models. Also included are activity diagrams for all NIP pipelines. Finally, formulas are presented that provide
@@ -36,7 +36,7 @@ Given the use of ERM & UML, basic familiarity with SEI standards is recommended 
 The code and the contents of this notebook are released under the GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007. We kindly request that if you make use of the notebook, you cite the work appropriately.
 
 ### Acknowledgements
-This notebook builds upon earlier work by Dr. Lina Levin-Preston & Prof. Ben Stappers. Lina wrote the original data models document, did all the data volume/rate calculations, and provided the original notation! Ben worked on this too. This notebook relies greatly on their earlier work.
+This notebook builds upon earlier work by Dr. Lina Levin-Preston & Prof. Ben Stappers. Lina wrote the original data models document, did all the data volume/rate calculations, and provided the original notation! Ben worked on this too. This notebook relies greatly on their earlier work. Thank you Andrea Possenti, for providing valuable feedback which has helped produce the latest version.
 
 ### Change log
 
