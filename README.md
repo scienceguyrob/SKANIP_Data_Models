@@ -4,6 +4,8 @@ data rates. Diagrams are included that define the conceptual and logical structu
 data models. Also included are activity diagrams for all NIP pipelines. Finally, formulas are presented that provide
 accurate estimates of NIP pipeline data rates.
 
+[![DOI](https://zenodo.org/badge/92536926.svg)](https://zenodo.org/badge/latestdoi/92536926)
+
 ## Author: Rob Lyon
 ## Email : robert.lyon@manchester.ac.uk
 ## web   : www.scienceguyrob.com
